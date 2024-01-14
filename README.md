@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [stats-preview-card](https://d-salkovic.github.io/nft-preview-card/)
+- Live Site URL: [stats-preview-card](https://d-salkovic.github.io/stats-preview-card/)
 
 ## My process
 
